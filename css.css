@@ -4,7 +4,7 @@
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
-}
-button{
-    background: chartreuse;
+/* Removed background so buttons can be styled individually */
+button {
+    /* You can still add shared styles like border-radius or font-size here */
 }
